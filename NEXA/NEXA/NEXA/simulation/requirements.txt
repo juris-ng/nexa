@@ -1,0 +1,5 @@
+# NEXA Simulation Engine Requirements
+# Install with: pip install -r requirements.txt
+
+# No external dependencies for base simulation
+# All systems use Python standard library
