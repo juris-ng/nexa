@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1f955654-c60f-49c7-b86e-2de1a0c4de59",
+    "memory_type": "semantic",
+    "subject_ids": [],
+    "event_id": null,
+    "importance": 60.0,
+    "emotional_weight": 20.0,
+    "recency": 100.0,
+    "relationship": 40.0,
+    "secrecy": 0.0,
+    "allowed_audience": [
+      "NIA"
+    ],
+    "tags": [
+      "nexa",
+      "persistent",
+      "world"
+    ],
+    "metadata": {},
+    "created_at": "2026-08-28T13:09:36.089017+00:00",
+    "updated_at": "2026-08-28T13:09:36.089017+00:00",
+    "content": "NEXA is a persistent simulated world that continues independently of individual audience commands."
+  },
+  {
+    "id": "8dc6a81f-c16d-4127-a362-a26e338dde14",
+    "memory_type": "episodic",
+    "subject_ids": [
+      "brian",
+      "city_government"
+    ],
+    "event_id": "EVENT_2044",
+    "importance": 91.0,
+    "emotional_weight": 87.0,
+    "recency": 100.0,
+    "relationship": 82.0,
+    "secrecy": 54.0,
+    "allowed_audience": [
+      "NIA"
+    ],
+    "tags": [
+      "event_2044",
+      "brian",
+      "corruption",
+      "government"
+    ],
+    "metadata": {},
+    "created_at": "2026-08-28T13:09:36.089017+00:00",
+    "updated_at": "2026-08-28T13:09:36.089017+00:00",
+    "content": "EVENT 2044: NIA watched Brian expose corruption in the City Government procurement office."
+  },
+  {
+    "id": "655bb5b5-491c-465a-8a48-e251ae42e245",
+    "memory_type": "secret",
+    "subject_ids": [
+      "brian"
+    ],
+    "event_id": null,
+    "importance": 85.0,
+    "emotional_weight": 60.0,
+    "recency": 100.0,
+    "relationship": 50.0,
+    "secrecy": 90.0,
+    "allowed_audience": [
+      "NIA"
+    ],
+    "tags": [
+      "brian",
+      "corruption",
+      "secret"
+    ],
+    "metadata": {},
+    "created_at": "2026-08-28T13:09:36.089017+00:00",
+    "updated_at": "2026-08-28T13:09:36.089017+00:00",
+    "content": "Brian privately told NIA that a second official may be involved in the procurement corruption case."
+  },
+  {
+    "id": "5fdf0986-8b3b-4b9b-84d8-aae313cb18d3",
+    "memory_type": "relationship",
+    "subject_ids": [
+      "brian"
+    ],
+    "event_id": null,
+    "importance": 70.0,
+    "emotional_weight": 55.0,
+    "recency": 100.0,
+    "relationship": 61.33,
+    "secrecy": 0.0,
+    "allowed_audience": [
+      "NIA"
+    ],
+    "tags": [
+      "relationship",
+      "brian",
+      "brian"
+    ],
+    "metadata": {
+      "character_name": "Brian",
+      "trust": 78,
+      "affection": 55,
+      "fear": 35,
+      "respect": 91,
+      "resentment": 5
+    },
+    "created_at": "2026-08-28T13:09:36.089017+00:00",
+    "updated_at": "2026-08-28T13:09:36.089017+00:00",
+    "content": "NIA's relationship memory of Brian: NIA respects Brian for exposing corruption but is concerned for his safety.. Trust=78, affection=55, fear=35, respect=91, resentment=5."
+  }
+]
