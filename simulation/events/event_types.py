@@ -1,0 +1,20 @@
+from enum import Enum
+
+class EventType(Enum):
+    """Standard event types in NEXA"""
+    ECONOMIC = "economic"
+    POLITICAL = "political"
+    SOCIAL = "social"
+    CRIME = "crime"
+    DISASTER = "disaster"
+    PROTEST = "protest"
+    ELECTION = "election"
+    BUSINESS = "business"
+    MEDIA = "media"
+    MYSTERY = "mystery"
+    PERSONAL = "personal"
+    WEATHER = "weather"
+    TRAFFIC = "traffic"
+    HEALTH = "health"
+    EDUCATION = "education"
+    INFRASTRUCTURE = "infrastructure"
