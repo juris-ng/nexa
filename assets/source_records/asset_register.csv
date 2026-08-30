@@ -1,0 +1,3 @@
+﻿asset_id,name,category,source,creator,license,license_url,commercial_use,modification_allowed,attribution_required,acquired_date,project_path,notes,status
+ASSET-0001,NEXA Asset Register,documentation,Internal,NEXA,Internal,,,,,,"assets/source_records/asset_register.csv","Use one row per acquired asset or asset pack.",active
+ASSET-0002,"City Sample","city","Fab / Epic Games","Epic Games","Verify asset-specific licence terms","https://www.fab.com/","Verify","Verify","Verify","2026-08-29","","Saved in Fab library. Local 95 GB sample-project download intentionally postponed until Phase 14 visual district work.","saved_in_library"

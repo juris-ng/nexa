@@ -64,3 +64,45 @@ docker-compose.override.yml
 # Secrets
 *.pem
 *.key
+
+# Unreal Engine generated files
+ue5/**/Binaries/
+ue5/**/DerivedDataCache/
+ue5/**/Intermediate/
+ue5/**/Saved/
+ue5/**/.vs/
+ue5/**/Plugins/**/Binaries/
+ue5/**/Plugins/**/Intermediate/
+
+# Unreal Visual Studio files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Imported or downloaded third-party source assets
+assets/source_records/downloads/
+assets/source_records/licenses/
+
+# NEXA Unreal Engine generated files
+NEXA_UE5/**/Binaries/
+NEXA_UE5/**/DerivedDataCache/
+NEXA_UE5/**/Intermediate/
+NEXA_UE5/**/Saved/
+NEXA_UE5/**/.vs/
+NEXA_UE5/**/Plugins/**/Binaries/
+NEXA_UE5/**/Plugins/**/Intermediate/
+
+# Unreal Engine solution and database files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Local asset downloads and licence evidence
+assets/source_records/downloads/
+assets/source_records/licenses/
